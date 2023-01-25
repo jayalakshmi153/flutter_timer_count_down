@@ -1,7 +1,7 @@
 name: flutter_timer_count_down
 description: Circular countdown for flutter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/jayalakshmi153/flutter_timer_count_down.git
 
 environment:
   sdk: '>=2.18.0-165.1.beta <3.0.0'
